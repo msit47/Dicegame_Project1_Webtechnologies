@@ -1,0 +1,25 @@
+Project 1:
+
+Homepage:
+
+http://codd.cs.gsu.edu/~smedisetty1/Project1/Homepagedice.html
+
+other pages:
+
+http://codd.cs.gsu.edu/~smedisetty1/Project1/playgame.html
+
+http://codd.cs.gsu.edu/~smedisetty1/Project1/howtoplay.html
+
+http://codd.cs.gsu.edu/~smedisetty1/Project1/history.html
+
+http://codd.cs.gsu.edu/~smedisetty1/Project1/contactus.html
+
+http://codd.cs.gsu.edu/~smedisetty1/Project1/feedback.html
+
+CSS:
+
+http://codd.cs.gsu.edu/~smedisetty1/Project1/dicecss.css
+
+
+Github:
+
